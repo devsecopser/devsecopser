@@ -2,8 +2,8 @@
 - 👀 I’m interested in devops culture and tools
 - 🌱 I’m always learning and enhacing my skills
 - 💞️ I’m looking to collaborate and find the best practices.
-- 📫 How to reach me ?
--- Phone: +201098091803
+- 📫 How to reach me ?  <br />
+-- Phone: +201098091803  <br />
 -- Mail: walid.ayada92@gmail.com
 
 <!---
