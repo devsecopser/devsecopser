@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate and find the best practices.
 - 📫 How to reach me ?
 Phone: +201098091803
-Mail: wlid.ayada92@gmail.com
+Mail: walid.ayada92@gmail.com
 
 <!---
 devsecopser/devsecopser is a ✨ special ✨ repository.
